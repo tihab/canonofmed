@@ -1,6 +1,6 @@
 {
   "name": "canonofmed",
-  "app_id": "",
+  "app_id": "3a0e917c",
   "gulpStartupTasks": [
     "sass",
     "watch"
